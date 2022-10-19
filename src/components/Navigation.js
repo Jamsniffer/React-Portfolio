@@ -13,6 +13,7 @@ export default function Navigation(props) {
                 <div className='wrap'>
                     <Nav className='navWrap'>
                         <NavLink className='navItem' href='/'>Home</NavLink>
+                        <NavLink className='navItem' href='/'>About Me</NavLink>
                         <NavLink className='navItem' href='/'>Projects</NavLink>
                         <NavLink className='navItem' href='/'>Contact Me</NavLink>
                     </Nav>
